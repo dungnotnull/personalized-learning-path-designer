@@ -1,0 +1,9 @@
+# Configuration directory for personalized-learning-path-designer
+
+Place configuration files here:
+
+- knowledge_updater.json: Configuration for the knowledge update crawler
+- settings.json: General project settings
+
+Configuration files are gitignored by default to prevent committing
+sensitive settings. Template files can be committed with .template extension.

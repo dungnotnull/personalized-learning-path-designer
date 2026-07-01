@@ -1,0 +1,10 @@
+# Personalized Learning Path Designer - Python Dependencies
+
+# Core dependencies (all optional, skill works without them)
+crawl4ai>=0.2.0  # Web crawling for knowledge updater (optional)
+
+# Development dependencies (optional)
+pytest>=7.0.0    # For running test suite
+pytest-cov>=4.0.0  # Coverage reporting
+black>=23.0.0    # Code formatting
+mypy>=1.0.0      # Static type checking
